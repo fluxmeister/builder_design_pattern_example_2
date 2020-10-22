@@ -7,4 +7,4 @@ The builder pattern simplifies the creation of objects. It also simplifies the c
 The builder pattern can be used to create an immutable class.
 
 Links and Literature:
-<a href="http://en.wikipedia.org/wiki/Design_Patterns">Wikipedia Entry about the GOF Design Pattern book</a>
+<a href="http://en.wikipedia.org/wiki/Design_Patterns" target="_blank">Wikipedia Entry about the GOF Design Pattern book</a>

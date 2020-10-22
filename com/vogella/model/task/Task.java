@@ -30,6 +30,14 @@ public class Task {
 		this.done = done;
 		this.dueDate = dueDate;
 	}
+	
+	/**
+	 * @return the id
+	 */
+	public long getId() {
+		return id;
+	}
+
 
 	/**
 	 * @return the summary
@@ -84,16 +92,10 @@ public class Task {
 	 * @param dueDate the dueDate to set
 	 */
 	public void setDueDate(Date dueDate) {
-		this.dueDate = dueDate;
+		this.dueDate = new Date(dueDate.getTime());
 	}
 
-	/**
-	 * @return the id
-	 */
-	public long getId() {
-		return id;
-	}
-
+	
 	
 	
 }

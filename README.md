@@ -1,4 +1,4 @@
-builder_design_pattern_example2
+builder_design_pattern_vogella
 
 url: <a>https://www.vogella.com/tutorials/DesignPatternBuilder/article.html</a>
 
